@@ -1,0 +1,31 @@
+[METADATA]
+modified = 2026-03-14T08:26:40Z
+
+[[ISSUERS]]
+address = "rPSAUjfHEYWy6nzKQdaUuK9TZJUJV76V6C"
+name = "XRPASCEND"
+desc = "Issuer account for XRPASCEND on XRPL mainnet."
+domain = "paddybansal13141314-hub.github.io"
+icon = "https://paddybansal13141314-hub.github.io/branding/logo_xrpascend_mark.svg"
+
+[[TOKENS]]
+issuer = "rPSAUjfHEYWy6nzKQdaUuK9TZJUJV76V6C"
+currency = "585250415343454E440000000000000000000000"
+name = "XRPASCEND"
+desc = "Together we Ascend with XRP."
+icon = "https://paddybansal13141314-hub.github.io/branding/logo_xrpascend_mark.svg"
+
+[[TOKENS.WEBLINKS]]
+type = "website"
+title = "Project Repository"
+url = "https://github.com/paddybansal13141314-hub/xrp-meme"
+
+[[TOKENS.WEBLINKS]]
+type = "explorer"
+title = "Issuer Account"
+url = "https://xrpscan.com/account/rPSAUjfHEYWy6nzKQdaUuK9TZJUJV76V6C"
+
+[[TOKENS.WEBLINKS]]
+type = "explorer"
+title = "AMM Pool Account"
+url = "https://xrpscan.com/account/rP5yLGXrowLXCKt36mrpNQFxTFqxpBfX5n"
